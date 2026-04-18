@@ -1,3 +1,3 @@
 # A simple AI Terminal App
 
-Tips: Prompt then wait 10s then prompt
+Tips: Prompt then wait 10s then prompt again
